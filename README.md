@@ -63,3 +63,7 @@ Issue with priming the filter: initial values of filter are 0s. So we have float
 Too high of a filterorder would not be as responsive to fast changing directions.
 Issue with high thresholds for edge genration: too high of a threshold would cause performance to suffer on roads with fainting lane paint
 
+## Files
+ - LineDetectionNotebook_jupyter.ipynb:  Jupyter notebook file encompasing all functions
+ - Project_Harness.py: Harness used to debug through the functionality
+
